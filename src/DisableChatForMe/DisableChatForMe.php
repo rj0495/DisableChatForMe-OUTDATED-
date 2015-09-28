@@ -8,6 +8,7 @@ use pocketmine\command\CommandSender;
 use pocketmine\event\Listener;
 use pocketmine\event\player\PlayerChatEvent;
 use pocketmine\Player;
+use pocketmine\utils\Utils;
 use pocketmine\plugin\PluginBase;
 
 class DisableChatForMe extends PluginBase implements Listener{
